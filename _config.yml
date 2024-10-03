@@ -3,5 +3,3 @@ plugins:
 - jekyll-remote-theme
 title: 4248 Pages
 description: All subpages on the 4248.dev site
-show_downloads: true
-show_releases: true
