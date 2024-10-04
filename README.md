@@ -13,6 +13,7 @@ These subdirectories are:
 *   [Testing](testing) - Testing pages for the site.
 *   [Fursonas](fursonas) - Information about my fursonas.
 *   [SSTV](SSTV) - My Slow Scan Television images.
+*   [Legal](legal) - Terms of service, privacy policy and content licenses.
 
 ## Other
 
