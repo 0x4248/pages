@@ -21,7 +21,6 @@ There are also some other directories in the `pages` directory:
 
 *   [Blix](blix) - A reference sheet for my fursona Blix.
 *   [Design](design) - A reference sheet for my design.
-*   [Furry](furry) - An explanation of the furry fandom for those who don't know what it is.
 
 ## Subdomains
 
