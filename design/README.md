@@ -36,28 +36,6 @@ Blue colours are used for links, headings and outlines of elements that should b
 
 Some other colours are also used such as `#424242` and `#242424` for borders and other elements.
 
-## Logos
-
-### 0x4248
-
-This is the main and original logo of 0x4248. You will see it on things like the bottom of websites and in watermarks. I dont use the 0x4248 logo as a profile picture. I use my fursona (blix) as my profile picture.
-
-<img src="https://raw.githubusercontent.com/0x4248/0x4248/refs/heads/master/pfp/icon_transparent.png" style="image-rendering: pixelated; width: 100px; height: 100px;">
-
-
-### Dots
-
-This logo is used for other things and shows `14` dots in `4` rows. Here is how the logo works:
-
-- The first row has `4` dots
-- The second row has `2` dots
-- The third row has `4` dots
-- The fourth row has `4` dots
-
-There are **4** dots on the first row, then **2** dots on the second row, then **4** dots on the third row and finally **4** dots on the fourth row. The last two rows add up to **8** dots which is the last digit of `0x4248`.
-
-<img src="https://raw.githubusercontent.com/0x4248/0x4248/refs/heads/master/pfp/dots_trans.png" style="image-rendering: pixelated; width: 100px; height: 100px;">
-
 ## Names
 
 There are a few names for 0x4248 that are used in different places.
