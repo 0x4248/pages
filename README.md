@@ -1,5 +1,8 @@
 # Pages
 
+> [!WARNING]
+> This part of my site has been deprecated and is no longer in use. The new site is located at [0x4248.dev](https://0x4248.dev/notebook).
+
 ## What does /pages contain?
 
 The `pages` directory contains most of the site content.
